@@ -1,0 +1,15 @@
+{
+    "version": "2.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Fierthraix/rmatrix/releases/download/v2.0.3/rmatrix-2.0.3-x86_64-pc-windows-gnu.zip",
+            "bin": [
+                "rmatrix-2.0.3-x86_64-pc-windows-gnu/r-matrix.exe"
+            ],
+            "hash": "998d5fe445a2e3a3cbb3327f018f7cf3e6a1934c80839b92c5898c25b2799ee1"
+        }
+    },
+    "homepage": "https://github.com/Fierthraix/rmatrix",
+    "license": "GPL-3.0-or-later",
+    "description": "Rust port of cmatrix."
+}
