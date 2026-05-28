@@ -1,0 +1,15 @@
+{
+    "version": "0.7.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Fierthraix/tiny-ping/releases/download/v0.7.1/tiny-ping-0.7.1-x86_64-pc-windows-gnu.zip",
+            "bin": [
+                "tiny-ping-0.7.1-x86_64-pc-windows-gnu/tiny-ping.exe"
+            ],
+            "hash": "5cb884d610022d40275f1dcbf2166ae4fc5d618376bc931cbb20c025bb50ee2e"
+        }
+    },
+    "homepage": "https://github.com/Fierthraix/tiny-ping",
+    "license": "MIT",
+    "description": "Small Asynchronous ICMP library and CLI"
+}
