@@ -1,0 +1,15 @@
+{
+    "version": "0.2.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Fierthraix/rimilo/releases/download/v0.2.8/rimilo-0.2.8-x86_64-pc-windows-gnu.zip",
+            "bin": [
+                "rimilo-0.2.8-x86_64-pc-windows-gnu/rimilo.exe"
+            ],
+            "hash": "40e5324e4040caef0d59c20f078aba059b8b3fdc482242b2fc78f7117afdbc08"
+        }
+    },
+    "homepage": "https://github.com/Fierthraix/rimilo",
+    "license": "MIT",
+    "description": "Rapida rimvort-serchilo por Esperanto-angla vortaro."
+}
