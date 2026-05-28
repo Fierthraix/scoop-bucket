@@ -1,0 +1,15 @@
+{
+    "version": "2.1.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Fierthraix/pingall/releases/download/v2.1.5/pingall-2.1.5-x86_64-pc-windows-gnu.zip",
+            "bin": [
+                "pingall-2.1.5-x86_64-pc-windows-gnu/pingall.exe"
+            ],
+            "hash": "bd99321963dc14be8ff4de8b57fbda64384c6304c2bdb671353606fa8c530209"
+        }
+    },
+    "homepage": "https://github.com/Fierthraix/pingall",
+    "license": "GPL-3.0-or-later",
+    "description": "Ping everything you can reach."
+}
