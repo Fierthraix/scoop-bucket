@@ -1,0 +1,15 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Fierthraix/aodv-rs/releases/download/v0.2.2/aodv-0.2.2-x86_64-pc-windows-gnu.zip",
+            "bin": [
+                "aodv-0.2.2-x86_64-pc-windows-gnu/aodv.exe"
+            ],
+            "hash": "0a00632f32d4273ed36bae9cbc10decf37029b008865f741d31c34b09ccbe6fd"
+        }
+    },
+    "homepage": "https://github.com/Fierthraix/aodv-rs",
+    "license": "MIT",
+    "description": "Userspace AODV control-plane implementation based on RFC 3561"
+}
