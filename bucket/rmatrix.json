@@ -1,12 +1,12 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Fierthraix/rmatrix/releases/download/v2.0.3/rmatrix-2.0.3-x86_64-pc-windows-gnu.zip",
+            "url": "https://github.com/Fierthraix/rmatrix/releases/download/v2.0.6/rmatrix-2.0.6-x86_64-pc-windows-gnu.zip",
             "bin": [
-                "rmatrix-2.0.3-x86_64-pc-windows-gnu/r-matrix.exe"
+                "rmatrix-2.0.6-x86_64-pc-windows-gnu/r-matrix.exe"
             ],
-            "hash": "ff9393e0fc4761762b10805302f7d17a33b598c8354486a4c25ef286681b8eef"
+            "hash": "5aadd6154cb59db045bd01f0327373a641e326080de193724436a282777f418b"
         }
     },
     "homepage": "https://github.com/Fierthraix/rmatrix",
